@@ -1,0 +1,2 @@
+# 改行コードを LF にそろえる（Windows の core.autocrlf の設定に関係なく、取り出すときも LF）
+* text=auto eol=lf
