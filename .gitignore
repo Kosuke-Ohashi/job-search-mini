@@ -43,3 +43,6 @@ next-env.d.ts
 # claude
 CLAUDE.md
 .claude/
+# markdown（README.md 以外は手元だけで管理する）
+*.md
+!/README.md
