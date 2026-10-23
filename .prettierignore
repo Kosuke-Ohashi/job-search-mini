@@ -1,0 +1,4 @@
+# .gitignore に書いたもの（node_modules、.next など）は Prettier が自動で除外する
+
+# npm が生成するファイル
+package-lock.json
